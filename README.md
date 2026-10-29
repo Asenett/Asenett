@@ -9,7 +9,8 @@ Desarrollo plugins para servidores de Minecraft bajo la marca **Akame**.
 ## Mis proyectos
 
 - **[AkamePlugins](https://github.com/AkamePlugins)**: la organización donde viven todos los plugins `Akame…`.
-  - **AkameDTC**: evento *Destroy The Core* para Paper 1.21.
+  - **[AkameDTC](https://github.com/AkamePlugins/AkameDTC)**: evento *Destroy The Core* para Paper 1.21.
+  - **[AkameCooldowns](https://github.com/AkamePlugins/AkameCooldowns)**: bloqueos y cooldowns de items, globales o por región de WorldGuard, para Paper 1.21.
 
 ## Tecnologías
 

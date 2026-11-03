@@ -11,7 +11,9 @@ Desarrollo plugins para servidores de Minecraft bajo la marca **Akame**.
 - **[AkamePlugins](https://github.com/AkamePlugins)**: la organización donde viven todos los plugins `Akame…`.
   - **[AkameDTC](https://github.com/AkamePlugins/AkameDTC)**: evento *Destroy The Core* para Paper 1.21.
   - **[AkameCooldowns](https://github.com/AkamePlugins/AkameCooldowns)**: bloqueos y cooldowns de items, globales o por región de WorldGuard, para Paper 1.21.
+  - **[AkameAuctionPlus](https://github.com/AkamePlugins/AkameAuctionPlus)**: addon de zAuctionHouse con compra rápida de un clic, catálogo de objetos, transacciones y precio de venta en cada item.
+  - **[AkameSell](https://github.com/AkamePlugins/AkameSell)**: `/sell` estilo DonutSMP con el total en vivo y multiplicadores por rango.
 
 ## Tecnologías
 
-Java 21 · Maven · Paper API · SQLite
+Java 21 · Maven · Paper API · SQLite · Vault · PlaceholderAPI

@@ -13,6 +13,7 @@ Desarrollo plugins para servidores de Minecraft bajo la marca **Akame**.
   - **[AkameCooldowns](https://github.com/AkamePlugins/AkameCooldowns)**: bloqueos y cooldowns de items, globales o por región de WorldGuard, para Paper 1.21.
   - **[AkameAuctionPlus](https://github.com/AkamePlugins/AkameAuctionPlus)**: addon de zAuctionHouse con compra rápida de un clic, catálogo de objetos, transacciones y precio de venta en cada item.
   - **[AkameSell](https://github.com/AkamePlugins/AkameSell)**: `/sell` estilo DonutSMP con el total en vivo y multiplicadores por rango.
+  - **[AkameRTP](https://github.com/AkamePlugins/AkameRTP)**: teletransporte aleatorio con menú de mundos y cola `/rtpq` para emparejar jugadores.
 
 ## Tecnologías
 

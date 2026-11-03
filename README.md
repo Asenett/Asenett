@@ -14,6 +14,8 @@ Desarrollo plugins para servidores de Minecraft bajo la marca **Akame**.
   - **[AkameAuctionPlus](https://github.com/AkamePlugins/AkameAuctionPlus)**: addon de zAuctionHouse con compra rápida de un clic, catálogo de objetos, transacciones y precio de venta en cada item.
   - **[AkameSell](https://github.com/AkamePlugins/AkameSell)**: `/sell` estilo DonutSMP con el total en vivo y multiplicadores por rango.
   - **[AkameRTP](https://github.com/AkamePlugins/AkameRTP)**: teletransporte aleatorio con menú de mundos y cola `/rtpq` para emparejar jugadores.
+  - **[AkameAstros](https://github.com/AkamePlugins/AkameAstros)**: moneda Astros por tiempo conectado con tienda configurable y herramientas 3x3.
+  - **[AkameEssentialsAddon](https://github.com/AkamePlugins/AkameEssentialsAddon)**: addon de EssentialsX con casas en diálogos, `/baltop` con cabezas y estadísticas.
 
 ## Tecnologías
 
